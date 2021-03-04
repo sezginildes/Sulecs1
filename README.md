@@ -1,8 +1,14 @@
-### Hi there, I'm Şule AKÇAY - [website] 👋
+<h2 align="left">
+ <abc>
+  <br>👋 Hi, I'm Şule AKÇAY.<br>
+  <br>I'm a Student, Undergraduate, Developer, and data science enthusiast! <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h2> 
+<h2 align="left">Languages and Tools:</h2>
 
-## I'm a Student, Undergraduate, Developer, and data science enthusiast!
-
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 - 🔭 I am currently a third year computer engineering student!
 - 🌱 I am currently learning data science and Machine Learning!
 - 👯 I'm producing content for my website!
@@ -10,20 +16,9 @@
 - ⚡ Fun fact: I love to walk and sing.
 
 
-### Connect with me:
-
-[<img align="left" alt="Sule" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Sule | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-<br />
-
----
-
-### Languages and Tools:
+--
+<br/>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -75,6 +70,17 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
+<h2 align="left">Let's get connected:</h2>
+
+
+[<img align="left" alt="Sule" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Sule | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+<br />
 
 ---
 
@@ -88,3 +94,7 @@ These are my latest posts on [Medium](https://suleakcaycs.medium.com)
 [website]: /
 [twitter]: https://twitter.com/suleakcaycs1
 [linkedin]: https://www.linkedin.com/in/şule-akçay-27b881174/
+
+
+
+<a href="https://github.com/Sulecs1" target="_blank"> <img src="https://user-images.githubusercontent.com/42378118/108804235-bb374980-75c2-11eb-8ce0-8ec50dd204cd.jpg" alt="github" width="500" height="300"/> </a>
